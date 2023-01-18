@@ -1,1 +1,1 @@
-# SimpleApp1
+# SimpleApp
